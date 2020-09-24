@@ -5,8 +5,7 @@ import Header from './components/Header/Header';
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-  Link
+  Route
 } from "react-router-dom";
 
 
