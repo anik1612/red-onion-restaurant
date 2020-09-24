@@ -1,0 +1,17 @@
+.banner-section{
+    margin-top: 80px;
+    background-image: url('../../images/bannerbackground.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    height: 77vh;
+}
+
+.search-box{
+    position: relative;
+}
+
+.search-btn{
+    position: absolute;
+    right: 5.5%;
+}
